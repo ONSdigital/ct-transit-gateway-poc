@@ -4,5 +4,5 @@ variable "region" {
 }
 
 variable "transit_gateway_id" {
-  description = "Shared dev-svc TGW ID"
+  description = "Dev SVC tgw ID"
 }
